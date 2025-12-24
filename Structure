@@ -1,0 +1,9 @@
+│
+├─ /frame            # Farcaster Frame code
+├─ /miniapp          # Base App Mini App code
+├─ README.md
+├─ baseapp.json      # Base App manifest
+├─ package.json
+└─ public/
+   ├─ images/
+   └─ icons/
