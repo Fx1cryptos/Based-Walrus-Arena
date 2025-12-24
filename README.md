@@ -33,11 +33,7 @@ Rank up by completing tasks and winning meme battles.
 🖼 Logo & Visuals (IPFS)
 	•	Main Logo:
 ipfs://bafkreifvw2lzzidadtgrpnix3pm6ehdtfqn5qrnoxqwpnfhywibjmq3epm
-	•	Dynamic Images:
-ipfs://bafybeich7zbivcps7sdvkioohwyuy6aiimtoyy3goahk5flsziursy2rgi
-ipfs://bafybeif6yyfhpje2cxhoea7fcvrdz4dldwpja6npuhbriv5tdrvfij42c4
-ipfs://bafybeid4hupsovgzixbexubk7skcws5jhgppiqtvc53d5ii2bt5a3isnuq
-
+	
 
 ⚙️ Tech Stack
 	•	OhAra AI – code generation & UI builder
